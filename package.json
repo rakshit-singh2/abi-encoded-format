@@ -1,0 +1,14 @@
+{
+  "name": "abi-encoded-format",
+  "version": "1.0.0",
+  "description": "make abi encoded format of the constructors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rakshit Kumar Singh",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.13.2"
+  }
+}
